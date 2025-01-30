@@ -17,3 +17,7 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 + L2: Destruir blocos.
 + R1: Mover hotbar para direita.
 + L1: Mover hotbar para esquenda.
++ Triangle: Abrir o inventario.
++ Circle: O pads não está sedo usando no momento.
++ Cross: O pads não está sedo usando no momento.
++ Square: O pads não está sedo usando no momento.
