@@ -19,5 +19,9 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 + L1: Mover hotbar para esquenda.
 + Triangle: Abrir o inventario.
 + Circle: O pads não está sedo usando no momento.
-+ Cross: O pads não está sedo usando no momento.
++ Cross: Adicionar blocos no hotbar ao abrir o invetario.
 + Square: O pads não está sedo usando no momento.
++
++
++
++
