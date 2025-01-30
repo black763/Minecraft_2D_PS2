@@ -11,13 +11,9 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 + Sobrevivência: Em teste.
 
 ## Controles
-+ analogico esquendo: Mover o player.
-+ analogico direito: move a mira do player.
-+ R2: construir = botar blocos.
-+ L2: destruir blocos.
-+ R1: mover hotbar para direita.
-+ L1: mover hotbar para esquenda.
-+
-+
-+ 
-+
++ Analogico Esquendo: Mover o player.
++ Analogico Direito: Move a mira do player.
++ R2: Construir.
++ L2: Destruir blocos.
++ R1: Mover hotbar para direita.
++ L1: Mover hotbar para esquenda.
