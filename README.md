@@ -6,6 +6,18 @@ Olá galera, esse é o meu mais novo projento que trás o famoso paper minecraft
 ## Sobre o Projento
 Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2, embora novidandes ou até mesmo novas alfas pode demora um pouco para ser laçadas, mais pode ficar traquilos que nesse projento ainda tem muito o que fazer.
 
-## modos
-+ Criataivo: está complento.
-+ Sobrevivência: em teste.
+## Modos
++ Criataivo: Está complento.
++ Sobrevivência: Em teste.
+
+## Contreles
++ analogico esquendo: Mover o player.
++ analogico direito: move a mira do player.
++ R2: construir = botar blocos.
++ L2: destruir blocos.
++ R1: mover hotbar para direita.
++ L1: mover hotbar para esquenda.
++
++
++ 
++
