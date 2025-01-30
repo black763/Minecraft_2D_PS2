@@ -13,15 +13,18 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 ## Controles
 + Analogico Esquendo: Mover o player.
 + Analogico Direito: Mover a mira do player.
+
 + R2: Construir.
 + L2: Destruir blocos.
 + R1: Mover hotbar para direita.
 + L1: Mover hotbar para esquenda.
+
 + Triangle: Abrir o inventario.
 + Circle: O pads não está sedo usando no momento.
 + Cross: Adicionar blocos no hotbar ao abrir o invetario.
 + Square: O pads não está sedo usando no momento.
-+
-+
-+
-+
+
++ up: Mover o selecionandor de items ao abrir o invetario.
++ Down: Mover o selecionandor de items ao abrir o invetario.
++ Left: Mover o selecionandor de items ao abrir o invetario.
++ Righit: Mover o selecionandor de items ao abrir o invetario.
