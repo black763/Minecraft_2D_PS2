@@ -7,5 +7,5 @@ Olá galera, esse é o meu mais novo projento que trás o famoso paper minecraft
 Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2, embora novidandes ou até mesmo novas alfas pode demora um pouco para ser laçadas, mais pode ficar traquilos que nesse projento ainda tem muito o que fazer.
 
 ## modos
-+ Criataivo: e
-+ Sobrevivência: w
++ Criataivo: está complento.
++ Sobrevivência: em teste.
