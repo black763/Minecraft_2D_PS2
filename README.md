@@ -28,10 +28,8 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 
 ## créditos
 + Daniel santos: Criando da engine.
-+ [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv)
+++ [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv)
 + Wellinator.
-+ [Tyracraft](https://wellinator.github.io/tyracraft/)
+++ [Tyracraft](https://wellinator.github.io/tyracraft/)
 + Black_233: Criando do game.
-+ Quais quer bugs ou falta de desepenho no jogo pode entra contanto com migo.
-+ [Gmail]()
 
