@@ -10,7 +10,8 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
   + Sobrevivência: Em teste.
 </details>
 
-## Controles
+<h3 id="Controles">🎮 Controles</h3>
+
 + Analogico Esquendo: Mover o player.
 + Analogico Direito: Mover a mira do player.
 + R2: Construir.
@@ -27,12 +28,12 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 + Righit: Mover o selecionandor de items ao abrir o invetario.
 
 
+<h3 id="Autor é Créditos">Autor é Crédito</h3>
 
-## Autor é Créditos
 ◽ Engine Usanda: [**AthenaEnv**](https://github.com/DanielSant0s/AthenaEnv) Criada Pelo **Daniel Santos**
 
 ◽ Algums Assets Tirando do [**Tyracraft**](https://wellinator.github.io/tyracraft/) Criando Pelo **Wellinator**
 
 ◽ Ajunda Com o Projento **NGN MODS**
 
-◽ Desenvolvido por **black_233**
+◽ Desenvolvido por **Black_233**
