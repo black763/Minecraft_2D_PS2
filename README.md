@@ -1,14 +1,13 @@
-## Minecraft_2D_PS2
-Olá galera, esse é o meu mais novo projento que trás o famoso paper minecraft de navegador para o playstation 2.
-
 <img src="README%20Assets/Main%20Menu.png" alt="Minecraft 2D main menu" x="0" y="0" width="400"/>
 
 ## Sobre o Projento
 Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2, embora novidandes ou até mesmo novas alfas pode demora um pouco para ser laçadas, mais pode ficar traquilos que nesse projento ainda tem muito o que fazer.
 
-## Modos
-+ Criataivo: Está complento.
-+ Sobrevivência: Em teste.
+<details>
+<summary>Modos</summary>
+  + Criataivo: Está complento.
+  + Sobrevivência: Em teste.
+</details>
 
 ## Controles
 + Analogico Esquendo: Mover o player.
@@ -26,10 +25,10 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 + Left: Mover o selecionandor de items ao abrir o invetario.
 + Righit: Mover o selecionandor de items ao abrir o invetario.
 
-## créditos
-+ Daniel santos: Criando da engine.
-@ [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv)
-+ Wellinator.
-@ [Tyracraft](https://wellinator.github.io/tyracraft/)
-+ Black_233: Criando do game.
 
+
+## Autor é Créditos
+◽ Engine Usanda: [**AthenaEnv**](https://github.com/DanielSant0s/AthenaEnv) Criada Pelo **Daniel Santos**
+◽ Algums Assets Tirando do [**Tyracraft**](https://wellinator.github.io/tyracraft/) Criando Pelo **Wellinator**
+◽ Ajunda Com o Projento **NGN MODS**
+◽ Desenvolvido por **black_233**
