@@ -5,6 +5,7 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 
 <details>
 <summary>Modos</summary>
+  
   + Criataivo: Está complento.
   + Sobrevivência: Em teste.
 </details>
