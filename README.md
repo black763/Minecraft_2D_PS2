@@ -1,5 +1,3 @@
-<img src="README%20Assets/Main%20Menu.png" alt="Minecraft 2D main menu" x="0" y="0" width="400"/>
-
 ## Sobre o Projento
 Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2, embora novidandes ou até mesmo novas alfas pode demora um pouco para ser laçadas, mais pode ficar traquilos que nesse projento ainda tem muito o que fazer.
 
@@ -27,8 +25,11 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 + Left: Mover o selecionandor de items ao abrir o invetario.
 + Righit: Mover o selecionandor de items ao abrir o invetario.
 
+<h3 id="Preview">Preview da Introdução</h3>
 
-<h3 id="Autor é Créditos">Autor é Crédito</h3>
+<img src="README%20Assets/Main%20Menu.png" alt="Minecraft 2D main menu" x="0" y="0" width="400"/>
+
+<h3 id="Autor é Créditos">✒️ Autor é Crédito</h3>
 
 ◽ Engine Usanda: [**AthenaEnv**](https://github.com/DanielSant0s/AthenaEnv) Criada Pelo **Daniel Santos**
 
