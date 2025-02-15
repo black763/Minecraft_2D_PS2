@@ -29,6 +29,9 @@ Bem, esse projento tem o intuito de trazer o paper minecraft para playstation 2,
 
 ## Autor é Créditos
 ◽ Engine Usanda: [**AthenaEnv**](https://github.com/DanielSant0s/AthenaEnv) Criada Pelo **Daniel Santos**
+
 ◽ Algums Assets Tirando do [**Tyracraft**](https://wellinator.github.io/tyracraft/) Criando Pelo **Wellinator**
+
 ◽ Ajunda Com o Projento **NGN MODS**
+
 ◽ Desenvolvido por **black_233**
